@@ -100,7 +100,6 @@ As the development of Web 3.0 technology persists, blockchain technology will re
 
 Those exploring this emerging subset of the web are well-positioned to benefit from growing momentum. By leveraging Web 3.0 technologies, companies also have the ability to enact new, potentially lucrative business models. Regardless of the industry, the new web presents an opportunity to pivot from traditional revenue streams in search of more optimal solutions. In the midst of ongoing innovation, it’s important to note that all new technology requires refinement - and Web 3.0 is only just beginning.
 
-
 <div class="post-trufflecon-box mt-5 text-center">
   Join Kevin along with 60+ speakers from EY, IBM, Quorum, Runtime Verification, and more!
 
