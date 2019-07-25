@@ -1,10 +1,48 @@
 {
+  "axonis-enterprise-use-of-truffle": {
+    "title": "Axoni's Enterprise Use of Truffle",
+    "date": "2019-7-25",
+    "author": "Jonathan Leslie, Guest Blogger, a Lead Software Engineer from Axoni",
+    "published": true,
+    "excerpt": "At Axoni, our mission is to make shared information more trusted and reliable. We do this through distributed technology that we call \"Ethereum-inspired\"...given our compliance with the web3 JSON-RPC spec, Truffle basically works \"out-of-the-box\". However `truffle migrate` was less extensible, so we built a Truffle-based deployment tool.",
+    "image": "/img/blog/thumbnails/truffle-axoni.png"
+  },
+  "open-call-for-contributions-truffle-pegasys-eea-private-transactions": {
+    "title": "Open call for contributions by Truffle + PegaSys: EEA private transactions",
+    "date": "2019-7-24",
+    "author": "Felipe Faraggi, Guest Blogger, Developer Evangelist from PegaSys",
+    "published": true,
+    "excerpt": "In its current state, Truffle doesn't support EEA private transactions. Support for the web3js-eea library is needed for this to work and PegaSys has recently made an implementation of the v4.0 EEA specification. PegaSys and Truffle have teamed up to make a single open call for contributions. Help out and get some 😎 PegaSys swag and personally thanked on stage at TruffleCon!"
+  },
+  "best-methods-to-understand-blockchain-if-youre-not-a-developer": {
+    "title": "The Best Methods to Understand Blockchain Technology if You’re Not A Developer",
+    "date": "2019-7-24",
+    "author": "Scott Olson",
+    "published": true,
+    "excerpt": "As a non-technical person, it feels like it takes 1.21 gigawatts to keep up with the speed of technology - even Doc Brown himself couldn’t have predicted all of the technological advancements with his flux capacitor. Not only are we trying to keep up with technologies like blockchain, machine learning, and AI, but we have an overwhelming amount of information on the web all at the click of a mouse."
+  },
+  "blockchain-will-cure-cancer": {
+    "title": "Blockchain Will Cure Cancer",
+    "date": "2019-7-23",
+    "author": "Faina Shalts",
+    "published": true,
+    "excerpt": "Physicians and scientists will be the actual agents behind a cure for cancer. But in their potential to disrupt the very nature of medical research and treatment, blockchain-based solutions are extremely likely to light the way. It is important when examining any new technology to consider the ways in which it may change the world. Join me here as we briefly look at how blockchain can help lead us to a world without cancer."
+  },
+  "drizzle-vue-a-truffle-story": {
+    "title": "Drizzle Vue: A Truffle Story",
+    "date": "2019-7-22",
+    "author": "Amal Sudama",
+    "published": true,
+    "excerpt": "I felt this was an important problem to solve in order to improve the dapp developer experience.  It was important to get Drizzle working for Vue. Unfortunately, I knew nothing about Vue. In previous organizations I was a part of, I would have shied away from pursuing this project. However, at Truffle I felt comfortable and empowered to champion the idea.",
+    "image": "/img/blog/thumbnails/drizzle-vue.png"
+  },
   "an-easier-way-to-deploy-your-smart-contracts": {
     "title": "An Easier Way to Deploy Your Smart Contracts",
     "date": "2019-7-19",
     "author": "Mike Seese",
     "published": true,
-    "excerpt": "Deploying your smart contracts shouldn't be difficult, and the process should be flexible. I give a sneak peek at the next feature we're building: an easy to use interface to deploy your Truffle projects with Truffle Teams! Be the first to use it at my TruffleCon 2019 workshop!"
+    "excerpt": "Deploying your smart contracts shouldn't be difficult, and the process should be flexible. I give a sneak peek at the next feature we're building: an easy to use interface to deploy your Truffle projects with Truffle Teams! Be the first to use it at my TruffleCon 2019 workshop!",
+    "image": "/img/blog/thumbnails/truffle-teams.png"
   },
   "why-i-love-trufflecon": {
     "title": "Why I love TruffleCon",
